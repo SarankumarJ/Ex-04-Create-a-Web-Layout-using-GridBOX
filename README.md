@@ -12,7 +12,7 @@ Customize and expand the layout
 Web layout created using CSS Grid.
 ### Step 5:
 Publish Web layout created using CSS Grid
-## Algorithm:-
+## Program:-
 ```html
 <!doctype html>
 <title>Example</title>
